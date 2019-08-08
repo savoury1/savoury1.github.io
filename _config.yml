@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -41,3 +42,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-hacker
+title: Savoury Tech
+description: Technical good company for freedom loving people.
+>>>>>>> d7aeb1a5e19bc1ae24b8d03dfe724c9eca701615
