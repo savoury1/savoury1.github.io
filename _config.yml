@@ -30,7 +30,11 @@ theme: jekyll-theme-hacker
 title: Savoury Tech
 description: Technical good company for freedom loving people.
 plugins:
+#  - jekyll-paginate
   - jekyll-feed
+
+#paginate: 5
+#paginate_path: "/_posts/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

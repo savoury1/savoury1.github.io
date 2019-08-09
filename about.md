@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+A blog dedicated to the principle of freedom, including with all computer devices. Sometimes, breaking the "rules" tech organizations want you to follow (about "allowed" uses of your devices) is necessary to free your devices from the clutches of overly much corporate control and intrusion. This also frees you personally, energetically, due your devices working better and freer, which enables you to also function better and freer!

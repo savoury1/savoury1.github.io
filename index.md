@@ -4,3 +4,8 @@
 
 layout: default
 ---
+
+## Projects
+
+* [Serena Enhanced (aka Ubuntu "Rolling Release")](ubuntu-rolling)
+
