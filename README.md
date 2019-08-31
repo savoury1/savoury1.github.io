@@ -2,4 +2,4 @@
 
 ### "Technical good company for freedom loving people."
 
-The wide range of information presented on this site all has a common theme: helping people free their computers from all kinds of limitations, such that their computers are a more useful and productive tool than they would otherwise be.
+The information and software/scripts presented on this site is shared in the spirit of freedom, specifically relative the function of computer devices and associated software. With a truer and more cooperative attitude towards sharing of knowledge (rather than proprietary claims on knowledge) from even billions of us, all of humankind will benefit, as will planet Earth and all living entities who call this place home.
