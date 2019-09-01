@@ -16,7 +16,5 @@ layout: default
 ## Gists
 
 * [yman](https://gist.github.com/savoury1/bd8dc19471760ef3bc4464490f7e581c) -- Bash alias to load man pages in yelp (ie. a lovely pop-up window, easy to scroll around)
-
-* [ccd](https://gist.github.com/savoury1/7b73ec07ca12b79f4ce6ea57f8a81f8d) -- fast change dir between complex paths (ie. many projects) using in-script pre-defined array
-
+* [ccd](https://gist.github.com/savoury1/7b73ec07ca12b79f4ce6ea57f8a81f8d) -- fast change between complex paths (ie. many projects) using in-script pre-defined array
 * [Timestamped prompt](https://gist.github.com/savoury1/5933e85fecd150da926e16b8d4996048) -- handy prompt with timestamp + path (line 1) then "user@host $ " (line 2)
