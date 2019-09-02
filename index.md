@@ -5,6 +5,12 @@
 layout: default
 ---
 
+[<img src="https://avatars2.githubusercontent.com/u/43487468?s=32&v=4">](https://github.com/savoury1)[cd ..](https://github.com/savoury1)
+
+
+---
+
+
 ## Projects
 
 * [Ubuntu "Rolling Release" (aka Xenial or Serena or Ubuntu Enhanced)](ubuntu-rolling)
@@ -12,6 +18,10 @@ layout: default
 * [Métamorphose Mass File Renamer v2 (fork)](https://github.com/savoury1/metamorphose2)
 
 * [MATE Dock Applet (fork for GTK2 desktops)](https://github.com/savoury1/mate-dock-applet)
+
+
+---
+
 
 ## Gists
 
