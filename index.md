@@ -5,7 +5,14 @@
 layout: default
 ---
 
-[<img src="https://avatars2.githubusercontent.com/u/43487468?s=32&v=4">](https://github.com/savoury1)[cd ..](https://github.com/savoury1)
+
+[<img src="https://avatars2.githubusercontent.com/u/43487468?s=32&v=4">](https://github.com/savoury1) [cd ..](https://github.com/savoury1)
+
+
+---
+
+
+[<img src="images/A-Tale-of-Dock.png">](https://savoury.tech.blog/2019/09/03/a-tale-of-dock/)
 
 
 ---
@@ -30,3 +37,9 @@ layout: default
 * [ccd](https://gist.github.com/savoury1/7b73ec07ca12b79f4ce6ea57f8a81f8d) -- fast change between complex paths (ie. many projects) using in-script pre-defined array
 
 * [Timestamped prompt](https://gist.github.com/savoury1/5933e85fecd150da926e16b8d4996048) -- handy prompt with timestamp + path (line 1) then "user@host $ " (line 2)
+
+
+---
+
+
+[<img src="https://savoury1.github.io/ubuntu-rolling/images/Serena-Enhanced.png">](https://github.com/savoury1/ubuntu-rolling)
